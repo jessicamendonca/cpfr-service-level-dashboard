@@ -13,6 +13,7 @@ Analisar a performance de fornecedores e identificar gargalos através de indica
 - In Full
 - Lead Time
 - Atraso Médio
+- Fill Rate
 
 ## 📊 Análises Desenvolvidas
 - Evolução do OTIF ao longo do tempo
